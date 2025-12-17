@@ -8,6 +8,6 @@ public class AveragePercentMarksInPCM {
 		double averagePercentMarks = (mathsMarks + physicsMarks + chemistryMarks)/3.0;
 		
 		//Print the average percent mark
-		System.out.println("Average Percent Marks in PCM is " + averagePercentMarks);
+		System.out.println("Sam's average marks in PCM is " + averagePercentMarks);
 	}
 }
