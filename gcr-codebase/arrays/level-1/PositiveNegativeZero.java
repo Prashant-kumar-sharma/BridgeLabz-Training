@@ -14,19 +14,31 @@ public class PositiveNegativeZero {
 		
 		//Checking if students are eligible to give vote or not.
 		for(int i = 0 ; i < number.length ; i++)
-		{
-			if(number[i] < 0) //check if age is greater than 
+		{	
+			//checks if the number is positive, negative or zero
+			if(number[i] < 0) 
 			{
-				System.out.println("The number "+ number[i] +" is negative"); 
+				System.out.print("The number "+ number[i] +" is negative"); 
 			}
 			else if (number[i] >0)
 			{
-				System.out.println("The number "+ number[i] +" is positive"); 
+				System.out.print("The number "+ number[i] +" is positive"); 
 			}
 			else
 			{
-				System.out.println("The number " + number[i] + " is zero");
+				System.out.print("The number " + number[i] + " is zero");
 			}
+			
+			//check if they are odd or even
+			if (number[i] != 0) {
+                if (number[i] % 2 == 0) {
+                    System.out.println(" and even");
+                } else {
+                    System.out.println(" and odd");
+                }
+            } else {
+                System.out.println(" and neither odd nor even");
+            }
 		}
 		
 		//Compare the first and last element
