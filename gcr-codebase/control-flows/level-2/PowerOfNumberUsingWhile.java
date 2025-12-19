@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class PowerOfNumberUsingWhile {
     public static void main(String[] args) {
         //Create Scanner object to take input from the user
-        Scanner input = new Scanner(System.in
+        Scanner input = new Scanner(System.in);
         System.out.print("Enter the base number: ");
         int number = input.nextInt();
         System.out.print("Enter the power: ");
