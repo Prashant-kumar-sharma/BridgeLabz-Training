@@ -15,11 +15,11 @@ public class BMICalculatorTeam {
             double bmi = weight / (heightM * heightM);
 
             String status;
-            if (bmi < 18.5)
+            if (bmi <= 18.4)
                 status = "Underweight";
-            else if (bmi < 25)
+            else if (bmi <= 24.9)
                 status = "Normal";
-            else if (bmi < 30)
+            else if (bmi <= 39.9)
                 status = "Overweight";
             else
                 status = "Obese";
