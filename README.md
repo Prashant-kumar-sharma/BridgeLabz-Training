@@ -29,4 +29,17 @@
 
 ---
 
+###  Day 2 – Git Practice & Basic Java Programs 
+(**Date:** 17-Dec-2025) 
+- Practiced Git workflow and version control
+- Solved basic Java programs to understand syntax
+- Committed and pushed Java files
+
+🔗 **Code Link:**  
+[👉 Day 2 - Program Prequisites](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisites)
+
+---
+
+
+
 
