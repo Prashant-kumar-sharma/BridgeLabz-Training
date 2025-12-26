@@ -27,7 +27,7 @@
 -  Successfully pushed initial files to GitHub repository.  
 
 🔗 **Code Link:**  
-[👉 Day 1 - Core Java Practice](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice)
+👉 [Day 1 - Core Java Practice](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice)
 
 ---
 
@@ -38,7 +38,7 @@
 - Practice adding, commiting, and pushing Java files to Github.
 
 🔗 **Code Link:**  
-[👉 Day 2 - Program Prequisites](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisites)
+👉 [Day 2 - Program Prequisites](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisites)
 
 ---
 
@@ -52,7 +52,7 @@
 - Commited and pushed solutions to the remote repository.
   
 🔗 **Code Link:**  
-[👉 Day 3 - Programming Elements](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+👉 [Day 3 - Programming Elements](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
 ---
 
@@ -66,7 +66,7 @@
 - Commited and pushed solutions to the remote repository.
 
 🔗 **Code Link:**  
-[👉 Day 4 – Control Flow](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
+👉 [Day 4 – Control Flow](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
 
 ---
 
@@ -79,7 +79,7 @@
 - Commited and pushed solutions to the remote repository.
   
 🔗 **Code Link:**  
-[👉 Day 5 – Java Arrays](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+👉 [Day 5 – Java Arrays](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ---
 ## Week 2 – Java Programming Fundamentals (Continued)
@@ -94,7 +94,7 @@
 - Commited and pushed solutions to the remote repository.
 
 🔗 **Code Link:**  
-[👉 Day 6 – Java Strings](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string)
+👉 [Day 6 – Java Strings](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string)
 
 ---
 
@@ -108,6 +108,20 @@
 - Learned best practices for organizing code using multiple methods to improve readability, reusability, and maintainability
 
 🔗 **Code Link:**  
-[👉 Day 7 – Extras](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+👉 [Day 7 – Extras](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
 
 ---
+
+### Day 8 – LeetCode & Scenario-Based Questions  
+**Date:** 24-Dec-2025
+
+- Practiced problem-solving skills by solving Arrays Questions on LeetCode.
+- Focused on improving logical thinking and algorithmic approach.
+- Solved scenario-based Java problems to apply concepts in real-world situations.
+- Strengthened understanding of control flow, arrays, strings, and methods through practice.
+- Improved coding efficiency and problem-solving confidence.
+
+🔗 **Code Link:**  
+👉 [Day 8 – LeetCode Questions](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+👉 [Day 8 – Scenario-based Questions](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
