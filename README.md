@@ -1,4 +1,4 @@
-# BridgeLabz Training Progress Log  
+# BridgeLabz Training Progress Log   
 
 ---
 
@@ -10,7 +10,8 @@
 (**Date:** 16-Dec-2025)
 
 - Installed and configured Git.  
-- Set up GitHub repository.   
+- Set up GitHub repository.
+  ```
      BridgeLabz-Training/   
      ├── core-java-practice/   
      │  ├── gcr-codebase/   
@@ -19,8 +20,9 @@
      │  │ ├── program-prequisites/   
      │  │ ├── programming-elements/   
      │  ├── leet-code-codebase/   
-     │ ├── scenario-based/   
-     │ └── README.md   
+     │  ├── scenario-based/   
+     │  └── README.md
+  ```
 - Learned basic Git commands: ( `init`, `clone`, `add`, `commit`, `push` ).  
 -  Successfully pushed initial files to GitHub repository.  
 
@@ -64,7 +66,20 @@
 - Commited and pushed solutions to the remote repository.
 
 🔗 **Code Link:**  
-👉 [Day 4 – Control Flow](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
+[👉 Day 4 – Control Flow](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
 
 ---
 
+### Day 5 – Java Arrays 
+(**Date:** 20-Dec-2025) 
+- Learned the concept of arrays in Java and their importance in storing multiple values.
+- Understood array declaration, initialization, and traversal.
+- Explored array operations such as accessing elements and updating values.
+- Solved Java programs based on array manipulation and real-world scenarios.
+- Commited and pushed solutions to the remote repository.
+  
+🔗 **Code Link:**  
+[👉 Day 5 – Java Arrays](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+
+---
+ 
