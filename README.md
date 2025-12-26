@@ -82,4 +82,16 @@
 [👉 Day 5 – Java Arrays](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ---
- 
+
+ ### Day 6 – Java Strings and Exception Handling
+(**Date:** 22-Dec-2025) - Learned the concept of Strings in Java and their immutability
+- Practiced String creation, comparison, and commonly used String methods
+- Understood the difference between `String`, `StringBuilder`, and `StringBuffer`
+- Studied exception handling concepts using `try`, `catch`, `finally`, and `throw`
+- Practiced handling runtime exceptions with real-world Java programs
+- Commited and pushed solutions to the remote repository.
+
+🔗 **Code Link:**  
+[👉 Day 6 – Java Strings](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string)
+
+---
