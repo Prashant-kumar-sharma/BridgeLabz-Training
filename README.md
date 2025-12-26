@@ -123,5 +123,5 @@
 
 🔗 **Code Link:**  
 👉 [Day 8 – LeetCode Questions](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
-👉 [Day 8 – Scenario-based Questions](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+👉 [Day 8 – Scenario-based Questions](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
