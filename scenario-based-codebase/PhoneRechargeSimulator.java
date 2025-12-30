@@ -6,7 +6,7 @@ Take the user's mobile operator and amount.
 
 import java.util.Scanner;
 
-public class MobileRechargeApp {
+public class PhoneRechargeSimulator {
 
     // Display wallet balance
     public static void displayBalance(double balance) {
