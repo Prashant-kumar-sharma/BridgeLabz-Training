@@ -2,6 +2,8 @@
 
 ## 📅 Week 1: Git, GitHub & Java Programming Fundamentals
 
+## 📘 Section A : Training Learning Progress
+
 ### 🗓 Day 1 – Git & GitHub Setup  
 **(Date: 15-Dec-2025)**
 
@@ -28,7 +30,6 @@ BridgeLabz-Training/
   🔗 **Code Link:**  
 👉 [Day 1 – Core Java Practice](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training)
 
----
 
 ### 🗓 Day 2 – Git Practice & Basic Java Programs  
 **(Date: 16-Dec-2025)**
@@ -40,7 +41,6 @@ BridgeLabz-Training/
 🔗 **Code Link:**  
 👉 [Day 2 – Program Prequisites](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisites)
 
----
 
 ### 🗓 Day 3 – Programming Elements in Java  
 **(Date: 17-Dec-2025)**
@@ -58,7 +58,6 @@ BridgeLabz-Training/
 🔗 **Code Link:**  
 👉 [Day 3 – Programming Elements](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
----
 
 ### 🗓 Day 4 – Control Flow & Logical Constructs  
 **(Date: 18-Dec-2025)**
@@ -80,7 +79,6 @@ BridgeLabz-Training/
 🔗 **Code Link:**  
 👉 [Day 4 – Control Flow](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
 
----
 
 ### 🗓 Day 5 – Arrays & Basic Problem Solving  
 **(Date: 19-Dec-2025)**
@@ -99,7 +97,6 @@ BridgeLabz-Training/
 🔗 **Code Link:**  
 👉 [Day 5 – Arrays](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
----
   
  ### 🗓 Day 6 – Java Methods
  **(Date: 20-Dec-2025)**
@@ -115,7 +112,6 @@ BridgeLabz-Training/
 🔗 **Code Link:**  
 👉 [Day 6 – Methods](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
----
 
 ## 📅 Week 2: Strings & Extra Programming Fundamentals
 
@@ -132,7 +128,6 @@ BridgeLabz-Training/
 🔗 **Code Link:**  
 👉 [Day 7 – Strings](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string)
 
----
   
 ### 🗓 Day 8 – Extra Built-in Functions & String Practice  
 **(Date: 23-Dec-2025)**
@@ -162,72 +157,124 @@ BridgeLabz-Training/
 🔗 **Code Link:**  
 👉 [Day 8 – Extras](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
 
----
 
-### 🗓 Day 9 – Scenario-Based & LeetCode Array Practice  
+## 🧩 Section B : Scenario-Based Problems Progress
+
+### 🗓 Day 9 – Scenario-Based Practice  
 **(Date: 24-Dec-2025)**
-
-- Solved **2 scenario-based problems** using Java.
-- Practiced **5 array-based problems on LeetCode**.
-- Focused on logical thinking and clean code.
+- Solved **2** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
 - Committed and pushed all solutions.
-
-🔗 **Code Links:**  
+- 🔗 **Code Links:**  
 👉 [Scenario Based Problems](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)  
-👉 [LeetCode Array Problems](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
 
----
 
-### 🗓 Day 10 – Scenario-Based & LeetCode Array Practice  
+### 🗓 Day 10 – Scenario-Based Practice  
 **(Date: 26-Dec-2025)**
-
-- Solved **3 scenario-based problems** using Java.
-- Practiced **10 array-based problems on LeetCode**.
+- Solved **3** scenario-based problems.
 - Focused on logical thinking and clean code.
 - Committed and pushed all solutions.
-
-🔗 **Code Links:**  
+- 🔗 **Code Links:**  
 👉 [Scenario Based Problems](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)  
-👉 [LeetCode Array Problems](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
 
----
 
-### 🗓 Day 11 - LeetCode String Practice  
-**(Date: 27-Dec-2025)**
-
-- Practiced **15 string-based problems on LeetCode**.
-- Focused on logical thinking and clean code.
-- Committed and pushed all solutions.
-
-🔗 **Code Links:**  
-👉 [LeetCode String Problems](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/string)
-
----
-
-### 🗓 Day 12 – Scenario-Based & LeetCode Array Practice  
+### 🗓 Day 11 – Scenario-based Practice  
 **(Date: 29-Dec-2025)**
-
-- Solved **5 scenario-based problems** using Java.
-- Practiced **5 array-based problems on LeetCode**.
-- Focused on logical thinking and clean code.
+- Practiced **5** scenario-based problems.
+- Focused on logic and better user interface.
 - Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
-🔗 **Code Links:**  
-👉 [Scenario Based Problems](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)  
+
+### 🗓 Day 12 – Scenario-based Practice  
+**(Date: 30-Dec-2025)**
+- Practiced **5** scenario-based problems.
+- Focused on logic and better user interface.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+
+### 🗓 Day 13 – Scenario-based Practice  
+**(Date: 31-Dec-2025)**
+- Practiced **5** scenario-based problems.
+- Focused on logic and better user interface.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+
+## 🧮 Section C : LeetCode-based Problems Progress
+
+### 🗓 Day 9 – LeetCode-based Practice  
+**(Date: 24-Dec-2025)**
+- Practiced **5** arrays-based problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
 👉 [LeetCode Array Problems](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
 
----
 
-### 🗓 Day 13 – Scenario-Based & LeetCode Array Practice  
-**(Date: 30-Dec-2025)**
-
-- Solved **5 scenario-based problems** using Java.
-- Practiced **5 math-based problems on LeetCode**.
-- Focused on logical thinking and clean code.
+### 🗓 Day 10 – LeetCode-based Practice  
+**(Date: 25-Dec-2025)**
+- Practiced **5** arrays-based problems.
+- Created driver-main method & taken user inputs.
 - Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [LeetCode Array Problems](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
 
-🔗 **Code Links:**  
-👉 [Scenario Based Problems](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)  
+
+### 🗓 Day 11 – LeetCode-based Practice  
+**(Date: 26-Dec-2025)**
+- Practiced **5** array-based problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**
+👉 [LeetCode Array Problems](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
+
+
+### 🗓 Day 12 – LeetCode-based Practice  
+**(Date: 27-Dec-2025)**
+- Practiced **5** strings-based problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [LeetCode Strings Problems](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/string)
+
+
+### 🗓 Day 13 – LeetCode-based Practice  
+**(Date: 28-Dec-2025)**
+- Practiced **5** strings-based problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**
+👉 [LeetCode Strings Problems](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/string)
+
+
+### 🗓 Day 14 – LeetCode-based Practice  
+**(Date: 29-Dec-2025)**
+- Practiced **5** strings-based problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**
+👉 [LeetCode Strings Problems](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/string)
+
+
+### 🗓 Day 15 – LeetCode-based Practice  
+**(Date: 30-Dec-2025)**
+- Practiced **5** math and basic logic problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**
 👉 [LeetCode Math Problems](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/math)
+
+
+
+
+
+
+
+
 
 
