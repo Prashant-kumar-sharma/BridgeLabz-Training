@@ -79,9 +79,60 @@ BridgeLabz-Training/
 
 ---
 
+### 🗓 Day 14 – Java Inheritance and Types
+**(Date: 31-Dec-2025)**
+- Studied inheritance and its types:
+  - Single level inheritance
+  - Multilevel inheritance
+  - Hierarchical inheritance
+  - Hybrid inheritance
+- Method Overriding and `@Override`
+- Constructor inheritance `super()` 
+- Polymorphism and Inheritance
+- Access Modifiers and Inheritance
+  - `public`
+  - `protected`
+  - Default (no modifier)
+  - `private`
+- Committed and pushed all work.
+- 🔗 **Code Link:**  
+👉 [Inheritance and Types](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)
+
+### 🗓 Day 15 – Java Encapsulation & Polymorphism
+**(Date: 01-Dec-2026)**
+- Studied Encapsulation & Polymorphism:
+  - Types of Polymorphism
+    - Compile-Time (Static) Polymorphism
+    - Runtime (Dynamic) Polymorphism
+  - Polymorphism with `interface`
+  - Polymorphism with `abstract` classes
+  - Casting and `instanceof` with Polymorphism
+- Practiced Abstract Classes & interfaces
+  - Abstract Class vs Interface
+  - Interface vs Class
+- Learned more about best practices. 
+- Committed and pushed all work.
+- 🔗 **Code Link:**  
+👉 [Encapsulation & Polymorphism](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulation)
+
+---
 ## 🧩 Section B : Scenario-Based Problems Progress
 
+### 🗓 Day 16 – Scenario-Based Practice  
+**(Date: 02-Jan-2026)**
+- Solved **5** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarios/src/com/day1)  
 
 ---
 ## 🧮 Section C : LeetCode-based Problems Progress
 
+### 🗓 Day 16 – LeetCode-based Practice  
+**(Date: 02-Jan-2026)**
+- Practiced **3** classes and objects based problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [LeetCode Class and Object Problems](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase/classandobject)
