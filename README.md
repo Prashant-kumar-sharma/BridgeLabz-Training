@@ -132,7 +132,7 @@ BridgeLabz-Training/
 - Focused on logical thinking and real-world problem solving.
 - Committed and pushed all solutions.
 - 🔗 **Code Links:**  
-👉 [Scenario Based Problems](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarios/src/com/day1)
+👉 [Scenario Based Problems](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarios/src/com/day2)
 
 ---
 
