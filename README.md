@@ -17,6 +17,9 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 ### 🔹 [java-oops-practice](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-oops-practice)
 **Week 2** : Object-Oriented Programming
 
+### 🔹 [dsa-practice](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice)
+**Week 3** : Data Structures and Algorithms
+
 ---
 
 ## 📂 Project Structure
@@ -51,6 +54,12 @@ BridgeLabz-Training/
 │   └── 📁 scenario-based-codebase/           # Real-world problems
 └── 📁 dsa-practice/
 │   └── 📁 gcr-codebase/
+│   │  └── 📁 DSAConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 linkedlists/        # Singly, Doubly, Circular Linked List
+│   │               └── 📁 stackandqueues/     # Stack & Queue
+│   │               └── 📁 hashmap/            # HashMap + Hash Functions
 ```
 
 ---
@@ -81,6 +90,13 @@ BridgeLabz-Training/
 |  13 | 31-Dec      | Inheritance & Types            | Inheritance types and  access modifiers|
 |  14 | 01-Jan      | Encapsulation & Polymorphism   | Data hiding, polymorphism, interfaces  |
 
+### **Week 3 : Data Structures and Algorithms**
+
+| Day |     Date    | Topic                          | Coverage                               |
+|-----|-------------|--------------------------------|----------------------------------------|
+|  15 |   2 - Jan   | LinkedLists                    | Singly, Doubly, Circular Linked List   |
+|  16 |   3 - Jan   | Stack, Queues, HashMap         | STacks, Queues and HashMap             |
+
 ---
 
 ##  Key Concepts Covered
@@ -101,6 +117,15 @@ BridgeLabz-Training/
 -  **Inheritance**: Parent and Chlid relations
 -  **Polymorphism**: Method overloading and method overriding
 -  **Problem Solving**: LeetCode challenges, real-world scenarios
+
+### Data Structures and Algorithms (`dsa-practice`)
+- **Linked Lists**: Singly, Doubly, Circular Linked Lists
+- **Stacks**: LIFO concept, basic stack operations
+- **Queues**: FIFO concept, queue operations and use cases
+- **HashMap**: Key-value storage and common operations
+- **Hash Functions**: `hashCode()`, collisions, and hashing basics
+- **Problem Solving**: Stack, queue, and hashing-based problems
+
 ---
 
 ## 🔗 Quick Links
@@ -125,6 +150,12 @@ BridgeLabz-Training/
 - 📌 [Encapsulation & Polymorphism](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulation)
 - 📌 [LeetCode Solutions](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase)
 - 📌 [Scenario-Based Solutions](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarios/src/com)
+
+### `dsa-practice` :
+- 📌 [Linked Lists](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/linkedlists)
+- 📌 [Stack & Queue](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/stackandqueues)
+- 📌 [HashMap & Hash Functions](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/hashmap)
+
 ---
 
 ## 🎓 Learnings & Best Practices
