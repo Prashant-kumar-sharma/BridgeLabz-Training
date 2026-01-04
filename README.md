@@ -269,6 +269,22 @@ BridgeLabz-Training/
 - 🔗 **Code Links:**
 👉 [LeetCode Math Problems](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/math)
 
+### 🗓 Day 16 – LeetCode-based Practice  
+**(Date: 31-Dec-2025)**
+- Practiced **5** methods logic problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**
+👉 [LeetCode Math Problems](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/methods)
+
+### 🗓 Day 17 – LeetCode-based Practice  
+**(Date: 01-Dec-2025)**
+- Practiced **2** bit-manipularion problems.
+- Practiced **5** methods problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**
+👉 [LeetCode Bit-Manipulation Problems](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/bit-manipulation)
 
 
 
