@@ -60,6 +60,7 @@ BridgeLabz-Training/
 │   │               ├── 📁 linkedlists/        # Singly, Doubly, Circular Linked List
 │   │               └── 📁 stackandqueues/     # Stack & Queue
 │   │               └── 📁 hashmap/            # HashMap + Hash Functions
+│   │               └── 📁 sorting/            # Sorting Algorithms
 ```
 
 ---
@@ -95,7 +96,8 @@ BridgeLabz-Training/
 | Day |     Date    | Topic                          | Coverage                               |
 |-----|-------------|--------------------------------|----------------------------------------|
 |  15 |   2 - Jan   | LinkedLists                    | Singly, Doubly, Circular Linked List   |
-|  16 |   3 - Jan   | Stack, Queues, HashMap         | STacks, Queues and HashMap             |
+|  16 |   3 - Jan   | Stack, Queues, HashMap         | Stacks, Queues and HashMap             |
+|  17 |   5 - Jan   | Sorting                        | Sorting Algorithms                     |
 
 ---
 
@@ -124,6 +126,7 @@ BridgeLabz-Training/
 - **Queues**: FIFO concept, queue operations and use cases
 - **HashMap**: Key-value storage and common operations
 - **Hash Functions**: `hashCode()`, collisions, and hashing basics
+- **Sorting**: Different sorting techniques.
 - **Problem Solving**: Stack, queue, and hashing-based problems
 
 ---
@@ -155,6 +158,7 @@ BridgeLabz-Training/
 - 📌 [Linked Lists](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/linkedlists)
 - 📌 [Stack & Queue](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/stackandqueues)
 - 📌 [HashMap & Hash Functions](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/hashmap)
+-  📌 [Sorting](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/sorting)
 
 ---
 
