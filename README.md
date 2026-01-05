@@ -4,7 +4,7 @@
 
 ---
 
-### 🗓 Day 10 – OOP Basics & Paradigm Comparison  
+### 🗓 Day 9 – OOP Basics & Paradigm Comparison  
 **(Date: 26-Dec-2025)**
 
 - Set up and reviewed the `java-oops-practice` branch structure.
@@ -29,11 +29,11 @@ BridgeLabz-Training/
 - Committed and pushed all work.
 
 🔗 **Code Link:**  
-👉 [Day 10 – Introduction to OOP: Class and Object](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/classandobject)
+👉 [Day 9 – Introduction to OOP: Class and Object](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/classandobject)
 
 ---
 
-### 🗓 Day 11 – Java Constructors, Instance vs. Class Variables, Access Modifiers Concepts 
+### 🗓 Day 10 – Java Constructors, Instance vs. Class Variables, Access Modifiers Concepts 
 **(Date: 27-Dec-2025)**
 
 - Learned the concept of **constructors in Java** and their role in object initialization.
@@ -43,12 +43,12 @@ BridgeLabz-Training/
 - Applied the concepts through hands-on programs and committed all work.
 
 🔗 **Code Link:**  
-👉 [Day 11 – Java Constructors, Instance vs. Class Variables, Access Modifiers Concepts ](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructors/level1)
+👉 [Day 10 – Java Constructors, Instance vs. Class Variables, Access Modifiers Concepts ](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructors/level1)
 
 ---
 
 
-### 🗓 Day 12 – Java Keywords & Operators
+### 🗓 Day 11 – Java Keywords & Operators
 **(Date: 29-Dec-2025)**
 
 - Learned `this` keyword and constructor chaining.
@@ -58,11 +58,11 @@ BridgeLabz-Training/
 - Updated notes and committed work
 
 🔗 **Code Link:**  
-👉 [Day 12 – Java Keywords & Operators](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inbuiltfunction/level1)
+👉 [Day 11 – Java Keywords & Operators](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inbuiltfunction/level1)
 
 ---
 
-### 🗓 Day 13 – Object Modeling & Real-World Design  
+### 🗓 Day 12 – Object Modeling & Real-World Design  
 **(Date: 30-Dec-2025)**
 - Studied classes and objects and object modeling:
   - Class Diagram
@@ -75,11 +75,11 @@ BridgeLabz-Training/
   - Composition
 - Committed and pushed all work.
 - 🔗 **Code Link:**
-👉 [Day 13 - Object Modelling and Relations](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectmodelling)
+👉 [Day 12 - Object Modelling and Relations](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectmodelling)
 
 ---
 
-### 🗓 Day 14 – Java Inheritance and Types
+### 🗓 Day 13 – Java Inheritance and Types
 **(Date: 31-Dec-2025)**
 - Studied inheritance and its types:
   - Single level inheritance
@@ -98,7 +98,7 @@ BridgeLabz-Training/
 - 🔗 **Code Link:**  
 👉 [Inheritance and Types](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)
 
-### 🗓 Day 15 – Java Encapsulation & Polymorphism
+### 🗓 Day 14 – Java Encapsulation & Polymorphism
 **(Date: 01-Dec-2026)**
 - Studied Encapsulation & Polymorphism:
   - Types of Polymorphism
@@ -118,7 +118,7 @@ BridgeLabz-Training/
 ---
 ## 🧩 Section B : Scenario-Based Problems Progress
 
-### 🗓 Day 16 – Scenario-Based Practice  
+### 🗓 Day 15 – Scenario-Based Practice  
 **(Date: 02-Jan-2026)**
 - Solved **5** scenario-based problems.
 - Focused on logical thinking and real-world problem solving.
@@ -126,7 +126,7 @@ BridgeLabz-Training/
 - 🔗 **Code Links:**  
 👉 [Scenario Based Problems](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarios/src/com/day1)
 
-### 🗓 Day 17 – Scenario-Based Practice  
+### 🗓 Day 16 – Scenario-Based Practice  
 **(Date: 03-Jan-2026)**
 - Solved **2** scenario-based problems.
 - Focused on logical thinking and real-world problem solving.
@@ -134,12 +134,22 @@ BridgeLabz-Training/
 - 🔗 **Code Links:**  
 👉 [Scenario Based Problems](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarios/src/com/day2)
 
+### 🗓 Day 17 – Scenario-Based Practice  
+**(Date: 05-Jan-2026)**
+- Solved **2** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarios/src/com/day3)
+
+
+
 ---
 
 ---
 ## 🧮 Section C : LeetCode-based Problems Progress
 
-### 🗓 Day 16 – LeetCode-based Practice  
+### 🗓 Day 15 – LeetCode-based Practice  
 **(Date: 02-Jan-2026)**
 - Practiced **3** classes and objects based problems.
 - Created driver-main method & taken user inputs.
@@ -147,7 +157,7 @@ BridgeLabz-Training/
 - 🔗 **Code Links:**  
 👉 [LeetCode Class and Object Problems](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase/classandobject)
 
-### 🗓 Day 17 – LeetCode-based Practice  
+### 🗓 Day 16 – LeetCode-based Practice  
 **(Date: 03-Jan-2026)**
 - Practiced **3** constructors problems.
 - Created driver-main method & taken user inputs.
@@ -155,7 +165,7 @@ BridgeLabz-Training/
 - 🔗 **Code Links:**  
 👉 [LeetCode Problems](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase/constructors)
 
-### 🗓 Day 18 – LeetCode-based Practice  
+### 🗓 Day 17 – LeetCode-based Practice  
 **(Date: 04-Jan-2026)**
 - Practiced **4** non-access modifiers problems.
 - Created driver-main method & taken user inputs.
