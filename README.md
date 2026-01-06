@@ -61,6 +61,8 @@ BridgeLabz-Training/
 │   │               └── 📁 stackandqueues/     # Stack & Queue
 │   │               └── 📁 hashmap/            # HashMap + Hash Functions
 │   │               └── 📁 sorting/            # Sorting Algorithms
+│   │               └── 📁 searching/          # Searching Algorithms
+
 ```
 
 ---
@@ -98,6 +100,7 @@ BridgeLabz-Training/
 |  15 |   2 - Jan   | LinkedLists                    | Singly, Doubly, Circular Linked List   |
 |  16 |   3 - Jan   | Stack, Queues, HashMap         | Stacks, Queues and HashMap             |
 |  17 |   5 - Jan   | Sorting                        | Sorting Algorithms                     |
+|  18 |   6 - Jan   | Searching & Strings            | Searching Algorithms & String Building |
 
 ---
 
@@ -158,7 +161,8 @@ BridgeLabz-Training/
 - 📌 [Linked Lists](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/linkedlists)
 - 📌 [Stack & Queue](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/stackandqueues)
 - 📌 [HashMap & Hash Functions](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/hashmap)
--  📌 [Sorting](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/sorting)
+- 📌 [Sorting](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/sorting)
+- 📌 [Searching](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/sorting)
 
 ---
 
