@@ -29,4 +29,4 @@ public class ReverseString {
 		sc.close();
 	}
 }
-prashant
+
