@@ -58,25 +58,38 @@ BridgeLabz-Training/
 
 ### 🗓 Day 17 – Sorting Algorithms
 **(Date: 05-Jan-2026)**
-
-- Studied the concept of sorting and its importance in data organization
-- Learned and understood the working of:
+- Studied Sorting Algorithms:
   - Bubble Sort
   - Insertion Sort
-  - Merge Sort (Divide and Conquer)
-  - Quick Sort (Divide and Conquer)
-- Analyzed time and space complexity, stability, and use cases of each sorting algorithm
-- Understood comparison-based vs non-comparison-based sorting
-- Explored additional sorting algorithms:
+  - Merge Sort
+  - Quick Sort
   - Selection Sort
   - Heap Sort
   - Counting Sort
-  - Radix Sort
-  - Bucket Sort
-- Implemented sorting algorithms in Java
-- Committed and pushed all work
+- Understood algorithms and solved problem on each.
+- Committed and pushed all work.
 - 🔗 **Code Link:**  
-👉 [Sorting](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/sorting)
+👉 [Sorting Algorithms](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/sorting)
+
+
+### 🗓 Day 18 – Searching Algorithms & Java Utilities  
+**(Date: 06-Jan-2026)**
+- Studied Searching Algorithms:
+  - Linear Search
+  - Binary Search
+- Understood searching logic and comparison-based searching.
+- Studied Java mutable string classes:
+  - `StringBuilder`
+  - `StringBuffer`
+- Learned Java input handling using:
+  - `FileReader`
+  - `InputStreamReader`
+- Practiced implementations and solved problems on each concept.
+- Committed and pushed all work.
+- 🔗 **Code Link:**  
+👉 [Searching & Java Utilities](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/searching)
+
+
 
 
 ---
