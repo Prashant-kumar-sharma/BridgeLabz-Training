@@ -62,6 +62,11 @@ BridgeLabz-Training/
 │   │               └── 📁 hashmap/            # HashMap + Hash Functions
 │   │               └── 📁 sorting/            # Sorting Algorithms
 │   │               └── 📁 searching/          # Searching Algorithms
+│   │               └── 📁 runtimeanalysis/    # Runtime Analysis & Big-O Notation
+│   ├── 📁 leet-code-codebase/                 # LeetCode solutions
+│   └── 📁 scenario-based-codebase/            # Real-world problems
+|
+└── README.md
 
 ```
 
@@ -97,10 +102,11 @@ BridgeLabz-Training/
 
 | Day |     Date    | Topic                          | Coverage                               |
 |-----|-------------|--------------------------------|----------------------------------------|
-|  15 |   2 - Jan   | LinkedLists                    | Singly, Doubly, Circular Linked List   |
-|  16 |   3 - Jan   | Stack, Queues, HashMap         | Stacks, Queues and HashMap             |
-|  17 |   5 - Jan   | Sorting                        | Sorting Algorithms                     |
-|  18 |   6 - Jan   | Searching & Strings            | Searching Algorithms & String Building |
+|  15 | 02-Jan      | LinkedLists                    | Singly, Doubly, Circular Linked List   |
+|  16 | 03-Jan      | Stack, Queues, HashMap         | Stacks, Queues and HashMap             |
+|  17 | 05-Jan      | Sorting                        | Sorting Algorithms                     |
+|  18 | 06-Jan      | Searching & I/O utilities      | Linear & Binary Search and FileReader  |
+|  19 | 07-Jan      | Runtime Analysis & Big-O       | Time & space complexity analysis       |
 
 ---
 
@@ -130,6 +136,10 @@ BridgeLabz-Training/
 - **HashMap**: Key-value storage and common operations
 - **Hash Functions**: `hashCode()`, collisions, and hashing basics
 - **Sorting**: Different sorting techniques.
+- **Searching**: Linear Search and Binary Search algorithms
+- **String Utilities**: `StringBuilder` and `StringBuffer` for mutable strings
+- **File Handling**: Reading input using `FileReader` and `InputStreamReader`
+- **Algorithm Analysis**: Big-O notation, time complexity, space complexity, best, worst, and average case evaluation.
 - **Problem Solving**: Stack, queue, and hashing-based problems
 
 ---
@@ -162,7 +172,9 @@ BridgeLabz-Training/
 - 📌 [Stack & Queue](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/stackandqueues)
 - 📌 [HashMap & Hash Functions](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/hashmap)
 - 📌 [Sorting](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/sorting)
-- 📌 [Searching](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/sorting)
+- 📌 [Searching Algorithms, String & I/O utilities](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/searching)
+- 📌 [Time & Space Complexity Analysis](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/runtimeanalysis)
+
 
 ---
 
