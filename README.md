@@ -90,7 +90,17 @@ BridgeLabz-Training/
 👉 [Searching & Java Utilities](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/searching)
 
 
-
+### 🗓 Day 19 – Algorithm Runtime Analysis & Big-O Notation  
+**(Date: 07-Jan-2026)**
+- Studied algorithm runtime analysis.
+- Understood Big-O notation and its importance.
+- Analyzed time complexity of algorithms.
+- Analyzed space complexity and memory usage.
+- Learned best, worst, and average case complexities.
+- Studied practical guidelines for optimizing Java code.
+- Committed and pushed all work.
+- 🔗 **Code Link:**  
+👉 [Runtime Analysis & Big-O Notation](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/runtimeanalysis)
 
 ---
 ## 🧩 Section B : Scenario-Based Problems Progress
