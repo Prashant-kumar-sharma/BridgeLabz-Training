@@ -124,4 +124,13 @@ BridgeLabz-Training/
 - 🔗 **Code Links:**  
 👉 [LeetCode Problems - Arrays](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice//leet-code-codebase/arrays)
 
+### 🗓 Day 21 – LeetCode-based Practice  
+**(Date: 11-Jan-2026)**
+- Practiced **4** DSA problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [LeetCode Problems - Arrays](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice//leet-code-codebase/arrays)
+
+
 ---
