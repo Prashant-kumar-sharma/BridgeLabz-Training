@@ -120,6 +120,16 @@ BridgeLabz-Training/
 - Committed and pushed all solutions.
 - 🔗 **Code Links:**  
 👉 [Scenario Based Problems](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DataStructureScenarios/src/com/day2)
+
+
+### 🗓 Day 22 – Scenario-Based Practice  
+**(Date: 13-Jan-2026)**
+- Solved **3** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DataStructureScenarios/src/com/day3)
+
 ---
 ## 🧮 Section C : LeetCode-based Problems Progress
 
@@ -144,7 +154,7 @@ BridgeLabz-Training/
 - Created driver-main method & taken user inputs.
 - Committed and pushed all solutions.
 - 🔗 **Code Links:**  
-👉 [LeetCode Problems - Arrays](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/leet-code-codebase/arrays)
+👉 [LeetCode Problems - Arrays](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice//leet-code-codebase/arrays)
 
 ### 🗓 Day 23 – LeetCode-based Practice  
 **(Date: 13-Jan-2026)**
@@ -152,7 +162,7 @@ BridgeLabz-Training/
 - Created driver-main method & taken user inputs.
 - Committed and pushed all solutions.
 - 🔗 **Code Links:**  
-👉 [LeetCode Problems - Arrays](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/leet-code-codebase/arrays)
+👉 [LeetCode Problems - Arrays](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice//leet-code-codebase/arrays)
 
 
 ---
