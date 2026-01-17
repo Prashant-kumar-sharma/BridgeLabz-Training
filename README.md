@@ -20,6 +20,10 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 ### 🔹 [dsa-practice](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice)
 **Week 3** : Data Structures and Algorithms
 
+### 🔹 [java-collections-practice](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-collections-practice)
+**Week 4** : Collections Framework in Java
+
+
 ---
 
 ## 📂 Project Structure
@@ -65,7 +69,10 @@ BridgeLabz-Training/
 │   │               └── 📁 runtimeanalysis/    # Runtime Analysis & Big-O Notation
 │   ├── 📁 leet-code-codebase/                 # LeetCode solutions
 │   └── 📁 scenario-based-codebase/            # Real-world problems
-|
+└── 📁 java-collections-practice/
+│   └── 📁 gcr-codebase/
+│   ├── 📁 leet-code-codebase/                 # LeetCode solutions
+│   └── 📁 scenario-based-codebase/            # Real-world problems
 └── README.md
 
 ```
@@ -109,6 +116,10 @@ BridgeLabz-Training/
 |  19 | 07-Jan      | Runtime Analysis & Big-O       | Time & space complexity analysis       |
 |  20 | 13-Jan      | Trees & Binary Search Trees    | Basics, types and CRUD operations      |
 
+### **Week 4 : Collections Framework in Java**
+| Day |     Date    | Topic                          | Coverage                               |
+|-----|-------------|--------------------------------|----------------------------------------|
+
 
 ---
 
@@ -145,6 +156,7 @@ BridgeLabz-Training/
 - **Trees & BST**: Tree terminology, traversal techniques, Binary Search Tree operations, and real-world applications.
 - **Problem Solving**: Stack, queue, and hashing-based problems
 
+### Collections Framework in Java (`java-collections-practice`)
 ---
 
 ## 🔗 Quick Links
@@ -180,6 +192,7 @@ BridgeLabz-Training/
 - 📌 [LeetCode Solutions](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
 - 📌 [Scenario-Based Solutions](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DataStructureScenarios/src/com)
 
+### `java-collections-practice` :  
 
 ---
 
