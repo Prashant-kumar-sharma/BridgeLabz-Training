@@ -184,7 +184,7 @@ BridgeLabz-Training/
 
 ### 🗓 Day 23 – Scenario-Based Practice  
 **(Date: 13-Jan-2026)**
-- Solved **3** scenario-based problems.
+- Solved **2** scenario-based problems.
 - Focused on logical thinking and real-world problem solving.
 - Committed and pushed all solutions.
 - 🔗 **Code Links:**  
