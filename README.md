@@ -181,7 +181,15 @@ BridgeLabz-Training/
 - Focused on logical thinking and real-world problem solving.
 - Committed and pushed all solutions.
 - 🔗 **Code Links:**  
-👉 [Scenario Based Problems](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DataStructureScenarios/src/com/day4 )
+👉 [Scenario Based Problems](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DataStructureScenarios/src/com/day4)
+
+### 🗓 Day 24 – Scenario-Based Practice  
+**(Date: 16-Jan-2026)**
+- Solved **5** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DataStructureScenarios/src/com/day5)
 
 ---
 ## 🧮 Section C : LeetCode-based Problems Progress
