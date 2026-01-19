@@ -70,11 +70,16 @@ BridgeLabz-Training/
 │   ├── 📁 leet-code-codebase/                 # LeetCode solutions
 │   └── 📁 scenario-based-codebase/            # Real-world problems
 └── 📁 java-collections-practice/
-│   └── 📁 gcr-codebase/
-│   ├── 📁 leet-code-codebase/                 # LeetCode solutions
-│   └── 📁 scenario-based-codebase/            # Real-world problems
+│   ├── 📁 gcr-codebase/
+│   │  └── 📁 CollectionsConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               └── 📁 generics/          # 
+|   |
+│   ├── 📁 leet-code-codebase/
+│   └── 📁 scenario-based-codebase/
+|
 └── README.md
-
 ```
 
 ---
@@ -117,8 +122,9 @@ BridgeLabz-Training/
 |  20 | 13-Jan      | Trees & Binary Search Trees    | Basics, types and CRUD operations      |
 
 ### **Week 4 : Collections Framework in Java**
-| Day |     Date    | Topic                          | Coverage                               |
-|-----|-------------|--------------------------------|----------------------------------------|
+| Day |     Date    | Topic                          | Coverage                                                            |
+|-----|-------------|--------------------------------|---------------------------------------------------------------------|
+| 22  | 16-Jan      | Java Generics                  | Generic classes, methods, type parameters, bounded types, wildcards |
 
 
 ---
@@ -126,37 +132,39 @@ BridgeLabz-Training/
 ##  Key Concepts Covered
 
 ### Core Java (core-java-practice)
--  **Fundamentals**: Variables, data types, operators
--  **Control Structures**: If-else, loops, switch-case
--  **Arrays**: Single & multi-dimensional arrays
--  **Methods**: Parameters, return types, overloading
--  **Strings**: Manipulation, comparisons, exceptions
--  **Problem Solving**: LeetCode challenges, real-world scenarios
+-  **Fundamentals**: Variables, data types, operators.
+-  **Control Structures**: If-else, loops, switch-case.
+-  **Arrays**: Single & multi-dimensional arrays.
+-  **Methods**: Parameters, return types, overloading.
+-  **Strings**: Manipulation, comparisons, exceptions.
+-  **Problem Solving**: LeetCode challenges, real-world scenarios.
 
 ### Object-Oriented Programming (java-oops-practice)
--  **Classes & Objects**: Creating and instantiating objects
--  **Encapsulation**: Data hiding and access modifiers
--  **Constructors**: Default, parameterized, overloading
--  **Abstraction**: Interface-based design patterns
--  **Inheritance**: Parent and Chlid relations
--  **Polymorphism**: Method overloading and method overriding
--  **Problem Solving**: LeetCode challenges, real-world scenarios
+-  **Classes & Objects**: Creating and instantiating objects.
+-  **Encapsulation**: Data hiding and access modifiers.
+-  **Constructors**: Default, parameterized, overloading.
+-  **Abstraction**: Interface-based design patterns.
+-  **Inheritance**: Parent and Chlid relations.
+-  **Polymorphism**: Method overloading and method overriding.
+-  **Problem Solving**: LeetCode challenges, real-world scenarios.
 
 ### Data Structures and Algorithms (`dsa-practice`)
-- **Linked Lists**: Singly, Doubly, Circular Linked Lists
-- **Stacks**: LIFO concept, basic stack operations
-- **Queues**: FIFO concept, queue operations and use cases
-- **HashMap**: Key-value storage and common operations
-- **Hash Functions**: `hashCode()`, collisions, and hashing basics
+- **Linked Lists**: Singly, Doubly, Circular Linked Lists.
+- **Stacks**: LIFO concept, basic stack operations.
+- **Queues**: FIFO concept, queue operations and use cases.
+- **HashMap**: Key-value storage and common operations.
+- **Hash Functions**: `hashCode()`, collisions, and hashing basics.
 - **Sorting**: Different sorting techniques.
-- **Searching**: Linear Search and Binary Search algorithms
-- **String Utilities**: `StringBuilder` and `StringBuffer` for mutable strings
-- **File Handling**: Reading input using `FileReader` and `InputStreamReader`
+- **Searching**: Linear Search and Binary Search algorithms.
+- **String Utilities**: `StringBuilder` and `StringBuffer` for mutable strings.
+- **File Handling**: Reading input using `FileReader` and `InputStreamReader`.
 - **Algorithm Analysis**: Big-O notation, time complexity, space complexity, best, worst, and average case evaluation.
 - **Trees & BST**: Tree terminology, traversal techniques, Binary Search Tree operations, and real-world applications.
-- **Problem Solving**: Stack, queue, and hashing-based problems
+- **Problem Solving**: Stack, queue, and hashing-based problems.
 
 ### Collections Framework in Java (`java-collections-practice`)
+- **Generics**: Type-safe collections, generic classes and methods, type parameters, bounded types, wildcards, type erasure.
+
 ---
 
 ## 🔗 Quick Links
@@ -193,14 +201,16 @@ BridgeLabz-Training/
 - 📌 [Scenario-Based Solutions](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DataStructureScenarios/src/com)
 
 ### `java-collections-practice` :  
+- 📌 [Generics](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/generics)
+
 
 ---
 
 ## 🎓 Learnings & Best Practices
 
--  **Code Organization**: Following industrial standards
--  **Naming Conventions**: Camel case, Pascal case and meaningful names
--  **Version Control**: Regular commits with descriptive messages
--  **Problem-Solving**: Breaking complex problems into smaller tasks
--  **Documentation**: Clear comments and README files
+-  **Code Organization**: Following industrial standards.
+-  **Naming Conventions**: Camel case, Pascal case and meaningful names.
+-  **Version Control**: Regular commits with descriptive messages.
+-  **Problem-Solving**: Breaking complex problems into smaller tasks.
+-  **Documentation**: Clear comments and README files.
 ---
