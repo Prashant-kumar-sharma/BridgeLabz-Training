@@ -13,13 +13,18 @@ BridgeLabz-Training/
 │── java-oops-practice/
 │   │── gcr-codebase/
 │   │   │── JavaOopsConcepts/
-│   │   │   │── src/
-│   │   │   │   │── com/
-│   │   │   │   │   │── classandobject/
-│   │
+│   │       │── src/
+│   │           │── com/
+│   │               │── classandobject/
+│   │               │── constructors/
+│   │               │── inbuiltfunction/
+│   │               │── objectmodelling/
+│   │               │── inheritance/
+│   │               │── encapsulation/
+|   |   
 │   │── leet-code-codebase/
 │   │── scenario-based-codebase/
-│   │── .gitignore
+│── .gitignore
 │── README.md
 ```
 - Introduced Object-Oriented Programming (OOP).
@@ -189,6 +194,16 @@ BridgeLabz-Training/
 - Committed and pushed all solutions.
 - 🔗 **Code Links:**  
 👉 [Scenario Based Problems](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarios/src/com/day9)
+
+### 🗓 Day 24 – Scenario-Based Practice  
+**(Date: 17-Jan-2026)**
+- Solved **2** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarios/src/com/day10)
+
+
 
 ---
 
