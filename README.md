@@ -129,6 +129,7 @@ BridgeLabz-Training/
 | 22  | 16-Jan      | Java Generics                  | Generic classes, methods, type parameters, bounded types, wildcards |
 | 23  | 17-Jan      | Collections Framework          | Collection hierarchy, List, Set, Queue, Map, implementations        |
 | 24  | 19-Jan      | Java I/O Streams               | Byte, character, buffered, object & bridge streams                  |
+| 25  | 20-Jan      | Exception Handling             | Checked, unchecked, custom exceptions, try(resources) & nested      |
 
 ---
 
@@ -175,7 +176,7 @@ BridgeLabz-Training/
 - **Queue & Deque**: `PriorityQueue`, `ArrayDeque`.
 - **Hands-on Practice**: CRUD, iteration, ordering, and performance examples.
 - **I/O Streams**: Byte & character streams, buffering, object serialization, and efficient file handling
-
+- **Exception Handling**: Checked vs unchecked exceptions, `try-catch-finally`, multiple and nested catch blocks, `throw` vs `throws`, custom exceptions, try-with-resources
 
 ---
 
@@ -216,6 +217,7 @@ BridgeLabz-Training/
 - 📌 [Generics](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/generics)
 - 📌 [List, Set, Queue & Map](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/interfaces)
 - 📌 [I/O Streams](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/streams)
+- 📌 [Exception Handling](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/exceptionhandling)
 
 ---
 
