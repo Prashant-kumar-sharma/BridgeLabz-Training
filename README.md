@@ -74,8 +74,10 @@ BridgeLabz-Training/
 │   │  └── 📁 CollectionsConcepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
-│   │               └── 📁 generics/          # 
-|   |
+│   │               ├──📁 generics/            # Generic classes, methods, wildcards
+│   │               ├──📁 interfaces/          # Different Interfaces and their Implementations 
+│   │               ├──📁 streams/             # I/O streams, buffering, and serialization
+|   |               └──📁 exceptionhandling/   # Checked, unchecked, custom exceptions, try-with-resources
 │   ├── 📁 leet-code-codebase/
 │   └── 📁 scenario-based-codebase/
 |
@@ -125,7 +127,7 @@ BridgeLabz-Training/
 | Day |     Date    | Topic                          | Coverage                                                            |
 |-----|-------------|--------------------------------|---------------------------------------------------------------------|
 | 22  | 16-Jan      | Java Generics                  | Generic classes, methods, type parameters, bounded types, wildcards |
-
+| 23  | 17-Jan      | Collections Framework          | Collection hierarchy, List, Set, Queue, Map, implementations        |
 
 ---
 
@@ -164,6 +166,13 @@ BridgeLabz-Training/
 
 ### Collections Framework in Java (`java-collections-practice`)
 - **Generics**: Type-safe collections, generic classes and methods, type parameters, bounded types, wildcards, type erasure.
+- **Collections Overview**: Purpose and benefits of Java Collections Framework.
+- **Hierarchy**: `Iterable`, `Collection`, `List`, `Set`, `Queue`, and `Map`.
+- **List Implementations**: `ArrayList`, `LinkedList`, `Vector`.
+- **Set Implementations**: `HashSet`, `LinkedHashSet`, `TreeSet`.
+- **Map Implementations**: `HashMap`, `LinkedHashMap`, `TreeMap`, `Hashtable`.
+- **Queue & Deque**: `PriorityQueue`, `ArrayDeque`.
+- **Hands-on Practice**: CRUD, iteration, ordering, and performance examples.
 
 ---
 
@@ -202,7 +211,7 @@ BridgeLabz-Training/
 
 ### `java-collections-practice` :  
 - 📌 [Generics](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/generics)
-
+- 📌 [List, Set, Queue & Map](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/interfaces)
 
 ---
 
