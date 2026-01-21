@@ -122,6 +122,7 @@ BridgeLabz-Training/
 |  18 | 06-Jan      | Searching & I/O utilities      | Linear & Binary Search and FileReader  |
 |  19 | 07-Jan      | Runtime Analysis & Big-O       | Time & space complexity analysis       |
 |  20 | 13-Jan      | Trees & Binary Search Trees    | Basics, types and CRUD operations      |
+|  21 | 15-Jan      | Graphs (DFS & BFS)             | Basics and traversal algorithms        |
 
 ### **Week 4 : Collections Framework in Java**
 | Day |     Date    | Topic                          | Coverage                                                            |
@@ -164,7 +165,8 @@ BridgeLabz-Training/
 - **File Handling**: Reading input using `FileReader` and `InputStreamReader`.
 - **Algorithm Analysis**: Big-O notation, time complexity, space complexity, best, worst, and average case evaluation.
 - **Trees & BST**: Tree terminology, traversal techniques, Binary Search Tree operations, and real-world applications.
-- **Problem Solving**: Stack, queue, and hashing-based problems.
+- **Graphs (DFS & BFS)**: Graph representations, DFS, BFS, and traversal-based problem solving
+- **Problem Solving**: LeetCode challenges, real-world scenarios.
 
 ### Collections Framework in Java (`java-collections-practice`)
 - **Generics**: Type-safe collections, generic classes and methods, type parameters, bounded types, wildcards, type erasure.
