@@ -136,6 +136,7 @@ BridgeLabz-Training/
 | 24  | 19-Jan      | Java I/O Streams               | Byte, character, buffered, object & bridge streams                  |
 | 25  | 20-Jan      | Exception Handling             | Checked, unchecked, custom exceptions, try(resources) & nested      |
 | 26  | 21-Jan      | Regex & JUnit Testing          | Pattern matching, validations, groups, unit testing, assertions     |
+| 27  | 22-Jan      | Annotations & Reflection       | Built-in & custom annotations, runtime inspection, proxies          |
 
 ---
 
@@ -173,19 +174,23 @@ BridgeLabz-Training/
 - **Graphs (DFS & BFS)**: Graph representations, DFS, BFS, and traversal-based problem solving
 - **Problem Solving**: LeetCode challenges, real-world scenarios.
 
-### Collections Framework in Java (`java-collections-practice`)
-- **Generics**: Type-safe collections, generic classes and methods, type parameters, bounded types, wildcards, type erasure.
-- **Collections Overview**: Purpose and benefits of Java Collections Framework.
-- **Hierarchy**: `Iterable`, `Collection`, `List`, `Set`, `Queue`, and `Map`.
-- **List Implementations**: `ArrayList`, `LinkedList`, `Vector`.
-- **Set Implementations**: `HashSet`, `LinkedHashSet`, `TreeSet`.
-- **Map Implementations**: `HashMap`, `LinkedHashMap`, `TreeMap`, `Hashtable`.
-- **Queue & Deque**: `PriorityQueue`, `ArrayDeque`.
-- **Hands-on Practice**: CRUD, iteration, ordering, and performance examples.
+
+### Collections Framework (java-collections-practice)
+- **Generics**: Type-safe collections, generic classes and methods, type parameters, bounded types, wildcards, type erasure
+- **Collections Overview**: Purpose and benefits of Java Collections Framework
+- **Hierarchy**: `Iterable`, `Collection`, `List`, `Set`, `Queue`, and `Map`
+- **List Implementations**: `ArrayList`, `LinkedList`, `Vector`
+- **Set Implementations**: `HashSet`, `LinkedHashSet`, `TreeSet`
+- **Map Implementations**: `HashMap`, `LinkedHashMap`, `TreeMap`, `Hashtable`
+- **Queue & Deque**: `PriorityQueue`, `ArrayDeque`
+- **Hands-on Practice**: CRUD, iteration, ordering, and performance examples
 - **I/O Streams**: Byte & character streams, buffering, object serialization, and efficient file handling
 - **Exception Handling**: Checked vs unchecked exceptions, `try-catch-finally`, multiple and nested catch blocks, `throw` vs `throws`, custom exceptions, try-with-resources
 - **Regex & JUnit Testing**: Pattern matching, validation rules, groups, quantifiers, unit tests, assertions, test lifecycle
-
+- **Reflection**: Runtime class inspection, private member access, dynamic invocation, constructors, proxies, annotation processing 
+- **Annotations**: Built-in annotations, meta-annotations, custom annotations, retention policies, processors, framework usage 
+  **Problem Solving**: LeetCode challenges, real-world scenarios
+  
 ---
 
 ## 🔗 Quick Links
@@ -229,6 +234,8 @@ BridgeLabz-Training/
 - 📌 [Exception Handling](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/exceptionhandling)
 - 📌 [Regex - Regular Expressions](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/regex)
 - 📌 [JUnit Testing](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/junit)
+- 📌 [Reflection](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/reflection)
+- 📌 [Annotations](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/annotations)
 
 ---
 
