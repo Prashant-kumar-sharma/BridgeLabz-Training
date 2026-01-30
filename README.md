@@ -26,6 +26,10 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 ### 🔹 [java-iostreams-practice](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-iostreams-practice)
 **Week 5** : Java I/O Streams
 
+### 🔹 [java8-programming-practice](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java8-programming-practice)
+**Week 6** : Java 8 Features
+
+
 ---
 
 ## 📂 Project Structure
@@ -107,7 +111,21 @@ BridgeLabz-Training/
 │       ├── 📁 leet-code-codebase/
 │       ├── 📁 scenario-based-codebase/
 │       └── README.md
-│
+|
+├── 📁 java8-programming-practice/
+│   └── 📁 java8-programming-practice/
+│       ├── 📁 gcr-codebase/
+│       │   └── 📁 Java8Concepts/
+│       │       └── 📁 src/
+│       │           └── 📁 com/
+│       │               ├── 📁 lambdas/           # Lambda expressions, functional interfaces, syntax
+│       │               ├── 📁 methodreferences/  # Static, instance, constructor references
+│       │               └── 📁 interfaces/        # Default methods, static methods, functional interfaces
+│       │
+│       ├── 📁 leet-code-codebase/                # LeetCode solutions
+│       ├── 📁 scenario-based-codebase/           # Real-world problems
+│       └── README.md
+|
 └── README.md
 
 ```
@@ -168,6 +186,10 @@ BridgeLabz-Training/
 | 28  | 23-Jan      | CSV Data Handling in Java      | Read/write CSV, validation, large-file processing, dataset merging  |
 | 29  | 24-Jan      | JSON Data Handling in Java     | JSON parsing, POJO mapping, schema validation, CSV to JSON, etc.    |
 
+### **Week 6 : Java 8 Features**
+| Day |     Date    | Topic                          | Coverage                                                            |
+|-----|-------------|--------------------------------|---------------------------------------------------------------------|
+
 ---
 
 ##  Key Concepts Covered
@@ -225,6 +247,7 @@ BridgeLabz-Training/
 - **CSV Data Handling**: Reading/writing CSV files, OpenCSV usage, data validation, object mapping, and large-file handling
 - **JSON Data Handling**: JSON creation, parsing, POJO mapping, schema validation, merging datasets, CSV to JSON conversion
 
+### Java 8 Features (java8-programming-practice)
   
 ---
 
@@ -265,7 +288,7 @@ BridgeLabz-Training/
 - 📌 [Generics](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/generics)
 - 📌 [List, Set, Queue & Map](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/interfaces)
 - 📌 [I/O Streams](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/streams)
-- 📌 [Example Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/examples)
+- 📌 [Example Problems](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/examples)
 - 📌 [Exception Handling](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/exceptionhandling)
 - 📌 [Regex - Regular Expressions](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/regex)
 - 📌 [JUnit Testing](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/junit)
@@ -276,6 +299,8 @@ BridgeLabz-Training/
 ### `java-iostreams-practice` :
 - 📌 [CSV Data Handling](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/csvdata)
 - 📌 [JSON Data Handling](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/jsondata)
+
+### `java8-programming-practice` :
 
 ---
 
