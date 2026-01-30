@@ -189,6 +189,7 @@ BridgeLabz-Training/
 ### **Week 6 : Java 8 Features**
 | Day |     Date    | Topic                          | Coverage                                                            |
 |-----|-------------|--------------------------------|---------------------------------------------------------------------|
+| 30  | 27-Jan      | Lambdas & Interfaces           | Lambdas, functional interfaces, method references                   |
 
 ---
 
@@ -248,7 +249,11 @@ BridgeLabz-Training/
 - **JSON Data Handling**: JSON creation, parsing, POJO mapping, schema validation, merging datasets, CSV to JSON conversion
 
 ### Java 8 Features (java8-programming-practice)
-  
+- **Lambda Expressions**: Functional programming syntax and usage
+- **Functional Interfaces**: `Predicate`, `Function`, `Consumer`, `Supplier`
+- **Method References**: Static, instance, and constructor references
+- **Interface Enhancements**: Default and static methods
+
 ---
 
 ## 🔗 Quick Links
@@ -301,6 +306,9 @@ BridgeLabz-Training/
 - 📌 [JSON Data Handling](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/jsondata)
 
 ### `java8-programming-practice` :
+- 📌 [Lambda Expressions](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/lambdas)
+- 📌 [Method References](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/methodreferences)
+- 📌 [Functional Interfaces](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/functionalinterfaces)
 
 ---
 
