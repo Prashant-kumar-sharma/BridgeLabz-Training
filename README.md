@@ -99,6 +99,11 @@ BridgeLabz-Training/
 ├── 📁 java-iostreams-practice/
 │   └── 📁 java-iostreams-practice/
 │       ├── 📁 gcr-codebase/
+│       │   └── 📁 IOStreamsConcepts/
+│       │       └── 📁 src/
+│       │           └── 📁 com/
+│       │               ├── 📁 csvdata/           # CSV reading/writing, validation, and large-file handling
+│       │               └── 📁 jsondata/          # JSON parsing, schema validation, mapping, conversions
 │       ├── 📁 leet-code-codebase/
 │       ├── 📁 scenario-based-codebase/
 │       └── README.md
@@ -160,6 +165,8 @@ BridgeLabz-Training/
 ### **Week 5 : Java I/O Streams**
 | Day |     Date    | Topic                          | Coverage                                                            |
 |-----|-------------|--------------------------------|---------------------------------------------------------------------|
+| 28  | 23-Jan      | CSV Data Handling in Java      | Read/write CSV, validation, large-file processing, dataset merging  |
+
 
 ---
 
@@ -262,6 +269,10 @@ BridgeLabz-Training/
 - 📌 [JUnit Testing](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/junit)
 - 📌 [Reflection](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/reflection)
 - 📌 [Annotations](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/annotations)
+
+### `java-iostreams-practice` :
+- 📌 [CSV Data Handling](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/csvdata)
+- 📌 [JSON Data Handling](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/jsondata)
 
 ---
 
