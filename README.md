@@ -49,10 +49,10 @@ BridgeLabz-Training/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
 │   │               ├── 📁 classandobject/    # Procedural vs OOP, fundamentals
-│   │               └── 📁 constructor/       # Constructor, access modifiers
-│   │               └── 📁 inbuiltfunction/   # Keywords, instance vs class members
-│   │               └── 📁 objectmodelling/   # Diagrams, relationships, communication
-│   │               └── 📁 inheritance/       # Types, method overriding, & access modifiers
+│   │               ├── 📁 constructor/       # Constructor, access modifiers
+│   │               ├── 📁 inbuiltfunction/   # Keywords, instance vs class members
+│   │               ├── 📁 objectmodelling/   # Diagrams, relationships, communication
+│   │               ├── 📁 inheritance/       # Types, method overriding, & access modifiers
 │   │               └── 📁 encapsulation/     # Abstract class, interface, & polymorphism
 │   ├── 📁 leet-code-codebase/                # LeetCode solutions
 │   └── 📁 scenario-based-codebase/           # Real-world problems
@@ -62,10 +62,10 @@ BridgeLabz-Training/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
 │   │               ├── 📁 linkedlists/        # Singly, Doubly, Circular Linked List
-│   │               └── 📁 stackandqueues/     # Stack & Queue
-│   │               └── 📁 hashmap/            # HashMap + Hash Functions
-│   │               └── 📁 sorting/            # Sorting Algorithms
-│   │               └── 📁 searching/          # Searching Algorithms
+│   │               ├── 📁 stackandqueues/     # Stack & Queue
+│   │               ├── 📁 hashmap/            # HashMap + Hash Functions
+│   │               ├── 📁 sorting/            # Sorting Algorithms
+│   │               ├── 📁 searching/          # Searching Algorithms
 │   │               └── 📁 runtimeanalysis/    # Runtime Analysis & Big-O Notation
 │   ├── 📁 leet-code-codebase/                 # LeetCode solutions
 │   └── 📁 scenario-based-codebase/            # Real-world problems
@@ -74,10 +74,14 @@ BridgeLabz-Training/
 │   │  └── 📁 CollectionsConcepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
-│   │               ├──📁 generics/            # Generic classes, methods, wildcards
-│   │               ├──📁 interfaces/          # Different Interfaces and their Implementations 
-│   │               ├──📁 streams/             # I/O streams, buffering, and serialization
-|   |               └──📁 exceptionhandling/   # Checked, unchecked, custom exceptions, try-with-resources
+│   │               ├── 📁 generics/            # Generic classes, methods, wildcards
+│   │               ├── 📁 interfaces/          # Different Interfaces and their Implementations 
+│   │               ├── 📁 streams/             # I/O streams, buffering, and serialization
+|   |               ├── 📁 exceptionhandling/   # Checked, unchecked, custom exceptions, try-with-resources
+│   │               ├── 📁 regex/             # Pattern matching, validation rules, groups & quantifiers
+│   │               ├── 📁 junit/             # Unit testing, assertions, test lifecycle, test cases
+│   │               ├── 📁 reflection/        # Runtime inspection, dynamic invocation, proxies
+│   │               └── 📁 annotations/       # Built-in & custom annotations, processors
 │   ├── 📁 leet-code-codebase/
 │   └── 📁 scenario-based-codebase/
 |
@@ -131,6 +135,7 @@ BridgeLabz-Training/
 | 23  | 17-Jan      | Collections Framework          | Collection hierarchy, List, Set, Queue, Map, implementations        |
 | 24  | 19-Jan      | Java I/O Streams               | Byte, character, buffered, object & bridge streams                  |
 | 25  | 20-Jan      | Exception Handling             | Checked, unchecked, custom exceptions, try(resources) & nested      |
+| 26  | 21-Jan      | Regex & JUnit Testing          | Pattern matching, validations, groups, unit testing, assertions     |
 
 ---
 
@@ -179,6 +184,7 @@ BridgeLabz-Training/
 - **Hands-on Practice**: CRUD, iteration, ordering, and performance examples.
 - **I/O Streams**: Byte & character streams, buffering, object serialization, and efficient file handling
 - **Exception Handling**: Checked vs unchecked exceptions, `try-catch-finally`, multiple and nested catch blocks, `throw` vs `throws`, custom exceptions, try-with-resources
+- **Regex & JUnit Testing**: Pattern matching, validation rules, groups, quantifiers, unit tests, assertions, test lifecycle
 
 ---
 
@@ -219,7 +225,10 @@ BridgeLabz-Training/
 - 📌 [Generics](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/generics)
 - 📌 [List, Set, Queue & Map](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/interfaces)
 - 📌 [I/O Streams](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/streams)
+- 📌 [Example Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/examples)
 - 📌 [Exception Handling](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/exceptionhandling)
+- 📌 [Regex - Regular Expressions](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/regex)
+- 📌 [JUnit Testing](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/junit)
 
 ---
 
