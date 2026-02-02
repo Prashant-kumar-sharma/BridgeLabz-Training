@@ -121,6 +121,9 @@ BridgeLabz-Training/
 │       │               ├── 📁 lambdas/           # Lambda expressions, functional interfaces, syntax
 │       │               ├── 📁 methodreferences/  # Static, instance, constructor references
 │       │               └── 📁 interfaces/        # Default methods, static methods, functional interfaces
+│       │               └── 📁 streams/           # Stream API, intermediate & terminal operations
+│       │               └── 📁 collectors/        # Grouping, partitioning, summarizing collectors
+│       │               └── 📁 workshop/          # Mini projects & real-world stream problems
 │       │
 │       ├── 📁 leet-code-codebase/                # LeetCode solutions
 │       ├── 📁 scenario-based-codebase/           # Real-world problems
@@ -190,6 +193,7 @@ BridgeLabz-Training/
 | Day |     Date    | Topic                          | Coverage                                                            |
 |-----|-------------|--------------------------------|---------------------------------------------------------------------|
 | 30  | 27-Jan      | Lambdas & Interfaces           | Lambdas, functional interfaces, method references                   |
+| 31  | 28-Jan      | Streams & Collectors           | Stream API, intermediate, terminal, collectors, parallel streams    |
 
 ---
 
@@ -253,6 +257,9 @@ BridgeLabz-Training/
 - **Functional Interfaces**: `Predicate`, `Function`, `Consumer`, `Supplier`
 - **Method References**: Static, instance, and constructor references
 - **Interface Enhancements**: Default and static methods
+- **Streams API**: Lazy evaluation, pipelines, parallel streams
+- **Collectors**: Grouping, partitioning, summarization, joining
+- **Workshop**: Real-world data processing using streams
 
 ---
 
@@ -309,6 +316,10 @@ BridgeLabz-Training/
 - 📌 [Lambda Expressions](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/lambdas)
 - 📌 [Method References](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/methodreferences)
 - 📌 [Functional Interfaces](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/functionalinterfaces)
+- 📌 [Streams](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/streams)
+- 📌 [Collectors](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/collectors)
+- 📌 [Workshop](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/workshop)
+
 
 ---
 
