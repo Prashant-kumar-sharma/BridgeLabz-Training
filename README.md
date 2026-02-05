@@ -216,6 +216,8 @@ BridgeLabz-Training/
 ### **Week 7 : Java Design Principles & Design Patterns**
 | Day |     Date    | Topic                          | Coverage                                                            |
 |-----|-------------|--------------------------------|---------------------------------------------------------------------|
+| 32  | 31-Jan      | Design Principles & Patterns   | SOLID, DRY, YAGNI, KISS, GoF patterns, clean code principles        |
+| 33  | 02-Feb      | Multithreading in Java         | Thread lifecycle, synchronization, concurrency use cases            |
 
 ---
 
@@ -285,6 +287,12 @@ BridgeLabz-Training/
 
 
 ### Java Design Principles & Design Patterns (java-design-pattern-practice)
+- **Design Principles**: SOLID, DRY, KISS, YAGNI, composition over inheritance
+- **Design Patterns**: Singleton, Factory, Observer, Builder
+- **Clean Code Practices**: Object Calisthenics, interface-driven design
+- **Multithreading**: Thread lifecycle, creation using Thread & Runnable, priorities, daemon threads
+- **Synchronization**: Locks, shared resource handling, race-condition prevention
+- **Concurrency Testing**: JUnit validation, timing logs, performance comparison
 
 ---
 
@@ -347,6 +355,10 @@ BridgeLabz-Training/
 
 
 ### `java-design-pattern-practice` :
+
+### `java-design-pattern-practice` :
+- 📌 [Design Principles & Patterns](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/designprinciples)
+
 
 ---
 
