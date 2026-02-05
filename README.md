@@ -358,7 +358,7 @@ BridgeLabz-Training/
 
 ### `java-design-pattern-practice` :
 - 📌 [Design Principles & Patterns](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/designprinciples)
-
+- 📌 [Multithreading](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/multithreading)
 
 ---
 
