@@ -30,6 +30,9 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 **Week 6** : Java 8 Features
 
 
+### 🔹 [java-design-pattern-practice](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-design-pattern-practice)
+**Week 7** : Java Design Principles & Design Patterns
+
 ---
 
 ## 📂 Project Structure
@@ -129,6 +132,19 @@ BridgeLabz-Training/
 │       ├── 📁 scenario-based-codebase/           # Real-world problems
 │       └── README.md
 |
+├── 📁 java-design-pattern-practice/
+|   └── 📁 java-design-pattern-practice/
+│       ├── 📁 gcr-codebase/
+│       |   └── 📁 DesignConcepts/
+│       │       └── 📁 src/
+│       │           └── 📁 com/
+│       │               ├── 📁 designprinciples/  # SOLID principles and design patterns
+│       │               └── 📁 multithreading/    # Thread lifecycle, synchronization, concurrency examples 
+|       |
+│       ├── 📁 leet-code-codebase/                # LeetCode solutions
+│       ├── 📁 scenario-based-codebase/           # Real-world problems
+│       └── README.md
+|
 └── README.md
 
 ```
@@ -194,6 +210,12 @@ BridgeLabz-Training/
 |-----|-------------|--------------------------------|---------------------------------------------------------------------|
 | 30  | 27-Jan      | Lambdas & Interfaces           | Lambdas, functional interfaces, method references                   |
 | 31  | 28-Jan      | Streams & Collectors           | Stream API, intermediate, terminal, collectors, parallel streams    |
+
+
+
+### **Week 7 : Java Design Principles & Design Patterns**
+| Day |     Date    | Topic                          | Coverage                                                            |
+|-----|-------------|--------------------------------|---------------------------------------------------------------------|
 
 ---
 
@@ -261,6 +283,9 @@ BridgeLabz-Training/
 - **Collectors**: Grouping, partitioning, summarization, joining
 - **Workshop**: Real-world data processing using streams
 
+
+### Java Design Principles & Design Patterns (java-design-pattern-practice)
+
 ---
 
 ## 🔗 Quick Links
@@ -320,6 +345,8 @@ BridgeLabz-Training/
 - 📌 [Collectors](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/collectors)
 - 📌 [Workshop](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/workshop)
 
+
+### `java-design-pattern-practice` :
 
 ---
 
