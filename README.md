@@ -15,6 +15,7 @@ BridgeLabz-Training/
 |   |       └── src/
 |   |           └── com/
 |   |               ├── designprinciples/
+|   |               └── multithreading/
 |   |
 │ 	│── leet-code-codebase/
 │ 	└── scenario-based-codebase/
