@@ -72,9 +72,9 @@ BridgeLabz-Training/
 - Learned transaction management concepts:
   - Auto-commit, commit, rollback, savepoints
 - Followed JDBC best practices:
-  - Try-with-resources
-  - Proper exception handling
-  - Secure query execution
+  - Try-with-resources.
+  - Proper exception handling.
+  - Secure query execution.
 - Introduced DAO and DTO design patterns for database applications.
 - Solved JDBC practice programs and committed all work.
 - 🔗 **Code Link:**  
