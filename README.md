@@ -33,6 +33,9 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 ### 🔹 [java-design-pattern-practice](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-design-pattern-practice)
 **Week 7** : Java Design Principles & Design Patterns
 
+### 🔹 [dbms-jdbc-practice](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dbms-jdbc-practice)
+**Week 8** : DBMS, SQL & JDBC Fundamentals
+
 ---
 
 ## 📂 Project Structure
@@ -145,6 +148,25 @@ BridgeLabz-Training/
 │       ├── 📁 scenario-based-codebase/           # Real-world problems
 │       └── README.md
 |
+├── 📁 dbms-jdbc-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 DBMSJDBCConcepts/
+│   │       ├── 📁 src/
+│   │       │   └── 📁 main/
+│   │       │       ├── 📁 resources/
+│   │       │       │   └── 📁 com/
+│   │       │       │       └── 📁 dbmsjdbc/
+│   │       │       │           └── 📁 sql/         # SQL scripts, DBMS fundamentals & MySQL DB
+│   │       │       └── 📁 java/
+│   │       │           └── 📁 com/
+│   │       │               └── 📁 dbmsjdbc/
+│   │       │                   └── 📁 jdbc/        # JDBC programs & DAO layer
+│   │       │
+│   │       └── pom.xml                             # Maven configuration and dependency management
+│   │
+│   ├── 📁 leet-code-codebase/                      # LeetCode solutions
+│   └── 📁 scenario-based-codebase/                 # Real-world problems
+|
 └── README.md
 
 ```
@@ -218,6 +240,13 @@ BridgeLabz-Training/
 |-----|-------------|--------------------------------|---------------------------------------------------------------------|
 | 32  | 31-Jan      | Design Principles & Patterns   | SOLID, DRY, YAGNI, KISS, GoF patterns, clean code principles        |
 | 33  | 02-Feb      | Multithreading in Java         | Thread lifecycle, synchronization, concurrency use cases            |
+
+
+### **Week 8 : DBMS, SQL & JDBC Fundamentals**
+| Day |     Date    | Topic                          | Coverage                                                            |
+|-----|-------------|--------------------------------|---------------------------------------------------------------------|
+| 34  | 06-Feb      | DBMS & SQL Optimization        | Normalization, joins, transactions, indexes, tuning & EXPLAIN       |
+| 35  | 09-Feb      | JDBC Fundamentals, Connectivity| JDBC architecture, CRUD operations, transactions, DAO/DTO patterns  |
 
 ---
 
@@ -294,6 +323,19 @@ BridgeLabz-Training/
 - **Synchronization**: Locks, shared resource handling, race-condition prevention
 - **Concurrency Testing**: JUnit validation, timing logs, performance comparison
 
+### DBMS, SQL & JDBC Fundamentals (dbms-jdbc-practice)
+- **Database Design**: Normal forms (1NF–4NF, BCNF), schema modeling
+- **Keys**: Primary, foreign, composite, candidate, unique
+- **SQL Commands**: DDL, DML, DQL, DCL, TCL
+- **Joins**: Inner, outer, cross, self joins
+- **Advanced Queries**: Subqueries, CTEs, window functions
+- **Indexing**: Clustered, non-clustered, composite, full-text, unique
+- **Query Optimization**: Execution plans, `EXPLAIN`, tuning strategies
+- **JDBC Architecture**: DriverManager, Connection, Statement APIs
+- **Database Operations**: CRUD using PreparedStatement
+- **Transactions**: Commit, rollback, savepoints, auto-commit handling
+- **Design Patterns**: DAO and DTO for database applications
+
 ---
 
 ## 🔗 Quick Links
@@ -359,6 +401,8 @@ BridgeLabz-Training/
 ### `java-design-pattern-practice` :
 - 📌 [Design Principles & Patterns](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/designprinciples)
 - 📌 [Multithreading](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/multithreading)
+
+### `dbms-jdbc-practice` :
 
 ---
 
