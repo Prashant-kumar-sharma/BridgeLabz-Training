@@ -334,7 +334,7 @@ BridgeLabz-Training/
 - **JDBC Architecture**: DriverManager, Connection, Statement APIs
 - **Database Operations**: CRUD using PreparedStatement
 - **Transactions**: Commit, rollback, savepoints, auto-commit handling
-- **Design Patterns**: DAO and DTO for database applications
+- **Design Patterns**: DAO and DTO for database applications.
 
 ---
 
