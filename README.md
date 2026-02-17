@@ -403,6 +403,9 @@ BridgeLabz-Training/
 - 📌 [Multithreading](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/multithreading)
 
 ### `dbms-jdbc-practice` :
+- 📌 [DBMS, MySQL & SQL](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DBMSJDBCConcepts/src/main/resources/com/dbmsjdbc/sql)
+- 📌 [JDBC Practice](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DBMSJDBCConcepts/src/main/java/com/jdbc)
+- 📌 [Scenario-Based Solutions](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/scenario-based-codebase/ScenarioPracticeDBMSJDBC/src/com)
 
 ---
 
